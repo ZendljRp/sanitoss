@@ -1,0 +1,2 @@
+INDEX VERSION 1.122+D:\RepositoriosGitHub\sanitoss\sanitoss\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2976234909.index
